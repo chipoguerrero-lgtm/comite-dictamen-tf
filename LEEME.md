@@ -22,3 +22,12 @@ Las respuestas se ven en tally.so, en la cuenta del docente.
 2. En el repositorio nuevo, pulsa **uploading an existing file** y arrastra **todo el contenido** de esta carpeta (`index.html`, `LEEME.md` y las carpetas `assets` y `video`). Pulsa **Commit changes**.
 3. Ve a **Settings → Pages**. En *Build and deployment*, elige **Deploy from a branch**, rama **main**, carpeta **/ (root)**, y pulsa **Save**.
 4. En uno o dos minutos la página queda en `https://chipoguerrero-lgtm.github.io/comite-dictamen-tf/`. Ese es el enlace para los alumnos.
+
+## Versión Robótica Computacional (IRC MRP 02)
+
+Carpeta `robotica/`, con su propio `index.html`, `accesible.html` (versión en texto, con el video escrito escena por escena) y `video/caso-robotica.mp4` (73 s, sin voz). Usa los logotipos de `assets/`.
+
+- Enlace para el grupo: `https://chipoguerrero-lgtm.github.io/comite-dictamen-tf/robotica/`
+- Versión en texto: `https://chipoguerrero-lgtm.github.io/comite-dictamen-tf/robotica/accesible.html`
+- Calentamiento: https://tally.so/r/bZ56K2
+- Entrega final: https://tally.so/r/pebkRZ
